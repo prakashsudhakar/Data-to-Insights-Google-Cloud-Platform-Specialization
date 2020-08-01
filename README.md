@@ -14,7 +14,7 @@ This specialization is intended for the following participants:
 
 To get the most out of this specialization, we recommend participants have some proficiency with ANSI SQL.
 
->>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: (qwiklabs.com)[https://qwiklabs.com/terms_of_service] 
+By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: [qwiklabs.com](https://qwiklabs.com/terms_of_service) 
 
 
 ## Applied Learning Project
